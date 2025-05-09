@@ -3,7 +3,7 @@
 
 Simple langing page with fullpage.js
 
-# Demo: [link here](https://markopersonally.github.io/burgers-side/)
+# Demo: [link here](https://m4rcin7.github.io/burgers-side/)
 
 
 
@@ -29,7 +29,7 @@ Simple langing page with fullpage.js
 Install my-project:
 
 ```bash
-    git clone https://github.com/markopersonally/formik-app.git
+    git clone https://github.com/m4rcin7/formik-app.git
     open your editor
     go live localhost:3000
 ```
